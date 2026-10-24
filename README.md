@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Bienvenue
 
-<!--
-**outilsweb/outilsweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nous développons des outils web modernes, gratuits, instantanés et 100% respectueux de la vie privée (traitement local en JavaScript).
 
-Here are some ideas to get you started:
+## 🛠️ Nos outils gratuits & anonymes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   [🧮 GénieCalc](https://geniecalc.com) — Plus de 30 calculatrices pour le quotidien, la finance et l'immobilier (Barèmes officiels).
+*   [📸 PixiTools](https://pixitools.fr) — Conversion (HEIC en JPG) et compression d'images sécurisées en local, sans envoi sur serveur.
+*   [🎲 Générateur Gratuit](https://generateur-gratuit.fr) — Tirages au sort, jeux de soirée et génération de mots de passe de qualité cryptographique.
+*   [🎬 BeSocialSite](https://besocialsite.com) — Creator Toolbox (Safe zones, teleprompter and script timer for TikTok, Reels & YouTube).
+
+---
+💻 [Visiter notre agence web](https://stmcreation.net) | 🔗 [Découvrir notre Linktree](https://linktr.ee)
